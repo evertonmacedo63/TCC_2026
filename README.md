@@ -36,4 +36,11 @@ Demonstrar como um grupo deve organizar:
 ---
 
 ## 📚 Estrutura Recomendada do Repositório
+# TCC 2026 – Repositório Exemplo
+
+Este repositório apresenta um modelo de organização para o Trabalho de Conclusão de Curso (TCC) da turma 3F 2026 – LEOS.
+
+Todas as orientações completas sobre estrutura, organização e boas práticas estão no PDF abaixo:
+
+👉 [Clique aqui para abrir o guia completo de orientações](instrucoes/instrucoes.pdf)
 
